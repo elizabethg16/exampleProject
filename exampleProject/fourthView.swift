@@ -10,6 +10,7 @@ import SwiftUI
 struct fourthView: View {
     var body: some View {
         Text("scholar kirby")
+        
     }
 }
 
